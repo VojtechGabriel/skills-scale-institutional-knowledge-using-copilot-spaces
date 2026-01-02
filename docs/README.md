@@ -46,7 +46,7 @@ If you're new to OctoAcme project management, follow these steps to get up to sp
 
 ## Contributing / Updates
 
-To propose edits or additions to these process documents, please open an issue using the [Add/Update Content to Process Docs](.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) template. This helps us track and review all proposed changes consistently.
+To propose edits or additions to these process documents, please open an issue using the [Add/Update Content to Process Docs](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) template. This helps us track and review all proposed changes consistently.
 
 ## Maintainers / Contacts
 
